@@ -6,6 +6,9 @@
 
 ```
 export ZONE=
+```
+
+```
 export STATIC_IP=
 ```
 
